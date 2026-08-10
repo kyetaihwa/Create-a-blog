@@ -1,3 +1,12 @@
 [
-  {"slug":"welcome","title":"블로그를 시작합니다","description":"정적 블로그의 첫 번째 글입니다.","date":"2026-08-10","updated":"2026-08-10","category":"공지","tags":["블로그","첫글"],"published":true}
+  {
+    "slug": "welcome",
+    "title": "매일 말씀 앞에 머무는 기록을 시작합니다",
+    "description": "매일 큐티하고 묵상한 말씀과 삶의 적용, 기도를 기록하는 블로그의 첫 인사말입니다.",
+    "date": "2026-08-10",
+    "updated": "2026-08-10",
+    "category": "인사말",
+    "tags": ["큐티", "묵상", "말씀", "신앙일기"],
+    "published": true
+  }
 ]
